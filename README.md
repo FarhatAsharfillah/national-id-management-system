@@ -100,19 +100,19 @@ s",
 }
 ```
 
-## 📸 Dokumentasi Antarmuka (Frontend)
+## 📸 Interface Documentation (Frontend)
 
 ### 1. Main Page Preview (GET)
-![Main Page Preview](assets/get.png)
+![Main Page Preview](assets/GET.png)
 
 ### 2. POST Operation
-![POST Operation](assets/post.png)
+![POST Operation](assets/POST.png)
 
 ### 3. PUT Operation
-![PUT Operation](assets/put.png)
+![PUT Operation](assets/PUT.png)
 
 ### 4. DELETE Operation
-![DELETE Operation](assets/delete.png)
+![DELETE Operation](assets/DELETE.png)
 
 ### 5. Error Handling Operation
-![Error Handling Operation](assets/errorhandling.png)
+![Error Handling Operation](assets/ERRORHANDLING.png)
